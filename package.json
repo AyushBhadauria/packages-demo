@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AyushBhadauria/packages-demo/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/AyushBhadauria/packages-demo#readme"
 }
