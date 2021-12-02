@@ -16,7 +16,7 @@
     "url": "https://github.com/AyushBhadauria/packages-demo/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/backgammon"
   },
   "homepage": "https://github.com/AyushBhadauria/packages-demo#readme"
 }
